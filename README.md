@@ -3,20 +3,8 @@
 ## An Analysis of Sentiment and Prevalence of Electric Vehicle Adoption 
 ![Image 1](assets/Cover%20Photo.png)
 
-<p style="text-align: right">
-Heidi Ramzel</p>
-
-
-<p style="text-align: right">
-Wes Sims </p>
-
-
-<p style="text-align: right">
-Will Fiser </p>
-
-
-<p style="text-align: right">
-Nikola Novakovic </p>
+<p style="text-align: center">
+Heidi Ramzel | Wes Sims | Will Fiser | Nikola Novakovic </p>
 
 # Executive Summary
 The market for electric vehicles (EVs) has seen rapid expansion over the last decade with no sign of slowing down. The past and future growth can be attributed to a variety of factors, particularly the positive environmental impact, long-term cost savings, and recently improved battery life. Moreover, factors such as new governmental incentives and increased consumer interest show that demand will only continue to grow. Our research indicates that in 2011, EV's averaged roughly 0.10% of the overall vehicle market share. Fast forward to the end of 2022 and the market share jumped to 6.26%, a 62x increase. Additionally, according to Bloomberg, global spending on electric vehicles is surging, with annual spending hitting $388 billion in 2022, up 53% from the year prior. Although there are a number of factors that may affect the degree to which the market expands, it is impossible to deny that the sector is seeing growth at a rate that has never been seen before. In our analysis, we reviewed data on EV market share, costs related to EV's, emission impacts of electrification, and consumer sentiment regarding the transformation taking place in the vehicular space. <br>
